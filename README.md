@@ -93,10 +93,6 @@ DeepSearch is a powerful Python-based OSINT utility that leverages Google's adva
 - Python 3.6 or higher
 - pip (Python package manager)
 
-### Required Dependencies
-
-    pip install colorama
-
 
 # Operating System Support
 
@@ -120,7 +116,7 @@ https://gist.github.com/techenthusiast167/eccc7f09284de678a4af6340eb4253b7
 
 # Install Dependencies
 
-pip install colorama
+    pip install colorama
 
 # Run the Tool
 
