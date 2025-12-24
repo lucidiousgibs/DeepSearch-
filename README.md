@@ -95,7 +95,7 @@ DeepSearch is a powerful Python-based OSINT utility that leverages Google's adva
 
 ### Required Dependencies
 
-pip install colorama
+    pip install colorama
 
 
 # Operating System Support
